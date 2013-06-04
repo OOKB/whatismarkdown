@@ -26,6 +26,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 - [MarkdownPad](http://markdownpad.com) for Windows
 - [MarkPad](http://code52.org/DownmarkerWPF) for Windows
 - [Marked](http://itunes.apple.com/us/app/marked/id448925439?mt=12) for Mac ($3.99). It provides a preview of your (Multi)Markdown as you work in any text editor.
+- [iaWriter](http://www.iawriter.com) for mac ($4.99). It has some idisyncracies, and was really originally meant just as a no-nonsense writing platform. Turns out it is good for plain old markdown editing however.
 - Or find another one and let us know about it.
 
 #### Online Tools
@@ -43,7 +44,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 ####iOS Apps
 
 - [Nocs](http://www.wisd.com/nocs)
-- [iWriter](http://www.iawriter.com)
+- [iaWriter](http://www.iawriter.com) (iOs version is slightly more than the Mac desktop version... otherwise works identically)
 - [Elements](http://www.secondgearsoftware.com/elements)
 - [Nebulous Lite](http://nebulousapps.net)
 
