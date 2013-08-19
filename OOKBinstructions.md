@@ -6,9 +6,9 @@ The overriding design goal for Markdown’s formatting syntax is to make it as r
 
 ≠≠≠≠≠≠≠≠
 
-# Style Guide:
+# A Markdown Style Guide:
 
-## Paragraphs
+## Paragraphs.
 A paragraph is simply one or more consecutive lines of text, separated by one or more blank lines. (A blank line is any line that looks like a blank line — a line containing nothing but spaces or tabs is considered blank.) Normal paragraphs should not be indented with spaces or tabs.
 
 ## Headlines.
@@ -19,6 +19,26 @@ A paragraph is simply one or more consecutive lines of text, separated by one or
 #### Headline4 (Subhead3)
 ##### Headline5 (Subhead4)
 ###### Headline6 (Subhead5)
+
+## Lists.
+To make a list, start each line with a dash and then a space.
+
+- Item One
+- Item Two
+- Item Three.
+
+For numbered lists, start each line with a number, a period, and then a space.
+
+1. First Thing
+2. Second Thing
+3. Third Thing.
+
+## Bold/Italics.
+To make a word within a sentence **bold**, surround it with two asterisks like **this**.
+
+To make a word *italic*, surround it with one asterisk like *this*.
+
+## Links.
 
 ≠≠≠≠≠≠≠≠
 
