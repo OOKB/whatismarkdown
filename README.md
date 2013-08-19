@@ -1,7 +1,7 @@
 # What is Markdown?
 
-### You may have heard about Markdown, if you have it's a good thing.
-**Markdown means that your website is being built correctly, by professionals.**
+### You may have heard about Markdown, if you have it’s a good thing.
+**Markdown means that your content is being created correctly.**
 
 In the past you may have heard of [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) (what you see is what you get) formatting. Think of Markdown like a simplified WYSIWYG.. simplified in the best way.
 
@@ -41,14 +41,14 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 - If you want to turn a website into Markdown, then its easy to do with [html2text](http://www.aaronsw.com/2002/html2text/) (also see [Marky](http://markdownrules.com/))
 - I really like using [gist](https://gist.github.com/) by github for sharing and collaborating (called forking) on documents. [Here's a sample](https://gist.github.com/2152688) :P
 
-####iOS Apps
+#### iOS Apps
 
 - [Nocs](http://www.wisd.com/nocs)
 - [iaWriter](http://www.iawriter.com) (iOs version is slightly more than the Mac desktop version... otherwise works identically)
 - [Elements](http://www.secondgearsoftware.com/elements)
 - [Nebulous Lite](http://nebulousapps.net)
 
-##How do I write this Markdown stuff?
+## How do I write this Markdown stuff?
 When developers talk about how to write something, they call it syntax.  
 To that end, here are related syntax documents sorted by ease of use.
 
@@ -57,22 +57,22 @@ To that end, here are related syntax documents sorted by ease of use.
 - [Daring Fireball](http://daringfireball.net/projects/markdown/syntax) - The original guide by the author
 - [Lots more..](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&gs_nf=1&tok=CMQN6SUMCLapgOH0-cg65w&cp=11&gs_id=2&xhr=t&q=markdown+syntax&pf=p&safe=active&output=search&sclient=psy-ab&oq=markdown+sy&aq=0p&aqi=p-p1g3&aql=&gs_sm=&gs_upl=&gs_l=&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&biw=1115&bih=893&ion=1)
 
-##Huh?
+## Huh?
 
 [Markdown](http://daringfireball.net/projects/markdown/) was made by [John Gruber](http://daringfireball.net/), and he says..
 
 > Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 
-##I still don't understand
+## I still don't understand
 
 Markdown can be written in a basic text editor (don't use Word) like Notepad on Windows. Mac's don't have a basic built-in text editor, but that's what the tools I mentioned above are for. You can write or copy and paste, but it's an easy way to write text that can quickly be turned into HTML. The web is written in HTML, so think of it like quick-start web developing for content editors. When you write in Markdown, you save the document with the file extension `.md`. More often than not, you'll never need to save a Markdown document, because you'll be using online tools.
 
-##Around the web
+## Around the web
 
 * [StackOverflow.com](http://stackoverflow.com/) uses Markdow for posts and comments. Here's their [help guide](http://stackoverflow.com/editing-help).
 * [github.com](https://github.com) uses a custom blend "GitHub Flavored Markdown" for their discussions. Here's their [help guide](http://github.github.com/github-flavored-markdown/).
 
-##Oh yah..
+## Oh yah..
 
 - I really want [Markdown extra](http://michelf.com/projects/php-markdown/extra/) to be more prevalant. It is the future of Markdown. If you can develop using Markdown Extra, please do. If possible, upgrade your Markdown installs to Markdown Extra.
 - [Textile]() is great, and was probably used most by [37 Signals](http://productblog.37signals.com/products/2007/07/use-textile-in-.html), but it lost the battle in the end.  
@@ -83,5 +83,5 @@ It did have out-of-the-box support for tables tho, which was quite nice.
 	- [Textism](http://www.textism.com/tools/textile/) - Dingus for Textile
 	- [Hobix](http://redcloth.org/hobix.com/textile/) - Formatting guide
 
-##Take action! 
+## Take action! 
 Demand that your web projects be built with Markdown.
